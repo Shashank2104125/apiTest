@@ -1,0 +1,329 @@
+{
+  "colleges": [
+    {
+      "id": 1,
+      "name": "National Institute of Technology",
+      "location": "Patna, Bihar",
+      "type": "Government",
+      "domain": "Engineering",
+      "profile": "/",
+      "fees": "INR 50,000 per annum"
+    },
+    {
+      "id": 2,
+      "name": "XYZ Medical College",
+      "location": "City, State",
+      "type": "Private",
+      "domain": "Medical",
+      "profile": "/medical-profile",
+      "fees": "INR 1,00,000 per annum"
+    },
+    {
+      "id": 3,
+      "name": "ABC Business School",
+      "location": "City, State",
+      "type": "Private",
+      "domain": "Management",
+      "profile": "/management-profile",
+      "fees": "INR 75,000 per annum"
+    },
+    {
+      "id": 4,
+      "name": "Law Academy",
+      "location": "City, State",
+      "type": "Government",
+      "domain": "Law",
+      "profile": "/law-profile",
+      "fees": "INR 40,000 per annum"
+    },
+    {
+      "id": 5,
+      "name": "Design Institute of Creativity",
+      "location": "City, State",
+      "type": "Private",
+      "domain": "Design",
+      "profile": "/design-profile",
+      "fees": "INR 60,000 per annum"
+    },
+    {
+      "id": 6,
+      "name": "Tech Innovators University",
+      "location": "City, State",
+      "type": "Private",
+      "domain": "Engineering",
+      "profile": "/engineering-profile",
+      "fees": "INR 55,000 per annum"
+    },
+    {
+      "id": 7,
+      "name": "Medical Excellence Institute",
+      "location": "City, State",
+      "type": "Government",
+      "domain": "Medical",
+      "profile": "/medical-profile",
+      "fees": "INR 85,000 per annum"
+    },
+    {
+      "id": 8,
+      "name": "Business Leaders College",
+      "location": "City, State",
+      "type": "Private",
+      "domain": "Management",
+      "profile": "/management-profile",
+      "fees": "INR 70,000 per annum"
+    },
+    {
+      "id": 9,
+      "name": "Legal Scholars University",
+      "location": "City, State",
+      "type": "Government",
+      "domain": "Law",
+      "profile": "/law-profile",
+      "fees": "INR 50,000 per annum"
+    },
+    {
+      "id": 10,
+      "name": "Creative Design Institute",
+      "location": "City, State",
+      "type": "Private",
+      "domain": "Design",
+      "profile": "/design-profile",
+      "fees": "INR 60,000 per annum"
+    },
+    {
+      "id": 11,
+      "name": "Innovative Engineering College",
+      "location": "City, State",
+      "type": "Private",
+      "domain": "Engineering",
+      "profile": "/engineering-profile",
+      "fees": "INR 58,000 per annum"
+    },
+    {
+      "id": 12,
+      "name": "City Medical University",
+      "location": "City, State",
+      "type": "Government",
+      "domain": "Medical",
+      "profile": "/medical-profile",
+      "fees": "INR 95,000 per annum"
+    },
+    {
+      "id": 13,
+      "name": "Global Management Institute",
+      "location": "City, State",
+      "type": "Private",
+      "domain": "Management",
+      "profile": "/management-profile",
+      "fees": "INR 72,000 per annum"
+    },
+    {
+      "id": 14,
+      "name": "Justice Law School",
+      "location": "City, State",
+      "type": "Private",
+      "domain": "Law",
+      "profile": "/law-profile",
+      "fees": "INR 55,000 per annum"
+    },
+    {
+      "id": 15,
+      "name": "Artistic Design College",
+      "location": "City, State",
+      "type": "Private",
+      "domain": "Design",
+      "profile": "/design-profile",
+      "fees": "INR 62,000 per annum"
+    },
+    {
+      "id": 16,
+      "name": "Elite Engineering Institute",
+      "location": "City, State",
+      "type": "Government",
+      "domain": "Engineering",
+      "profile": "/engineering-profile",
+      "fees": "INR 45,000 per annum"
+    },
+    {
+      "id": 17,
+      "name": "Health Sciences Academy",
+      "location": "City, State",
+      "type": "Government",
+      "domain": "Medical",
+      "profile": "/medical-profile",
+      "fees": "INR 90,000 per annum"
+    },
+    {
+      "id": 18,
+      "name": "Business Pioneers School",
+      "location": "City, State",
+      "type": "Private",
+      "domain": "Management",
+      "profile": "/management-profile",
+      "fees": "INR 75,000 per annum"
+    },
+    {
+      "id": 19,
+      "name": "Legal Eagles University",
+      "location": "City, State",
+      "type": "Government",
+      "domain": "Law",
+      "profile": "/law-profile",
+      "fees": "INR 52,000 per annum"
+    },
+    {
+      "id": 20,
+      "name": "Creative Minds Institute",
+      "location": "City, State",
+      "type": "Private",
+      "domain": "Design",
+      "profile": "/design-profile",
+      "fees": "INR 65,000 per annum"
+    },
+    {
+      "id": 21,
+      "name": "Advanced Science College",
+      "location": "City, State",
+      "type": "Government",
+      "domain": "Science",
+      "profile": "/science-profile",
+      "fees": "INR 48,000 per annum"
+    },
+    {
+      "id": 22,
+      "name": "Medical Achievers University",
+      "location": "City, State",
+      "type": "Private",
+      "domain": "Medical",
+      "profile": "/medical-profile",
+      "fees": "INR 98,000 per annum"
+    },
+    {
+      "id": 23,
+      "name": "Top Management Institute",
+      "location": "City, State",
+      "type": "Private",
+      "domain": "Management",
+      "profile": "/management-profile",
+      "fees": "INR 80,000 per annum"
+    },
+    {
+      "id": 24,
+      "name": "Legal Minds Law School",
+      "location": "City, State",
+      "type": "Private",
+      "domain": "Law",
+      "profile": "/law-profile",
+      "fees": "INR 58,000 per annum"
+    },
+    {
+      "id": 25,
+      "name": "Artistic Design University",
+      "location": "City, State",
+      "type": "Private",
+      "domain": "Design",
+      "profile": "/design-profile",
+      "fees": "INR 68,000 per annum"
+    }
+  ],
+  "exams": [
+    {
+      "id": 1,
+      "name": "JEE Mains",
+      "domain": "Engineering",
+      "eligibility": "10+2",
+      "profile": "/"
+    },
+    {
+      "id": 2,
+      "name": "NEET UG",
+      "domain": "Medical",
+      "eligibility": "10+2 (Biology/Chemistry/Physics)",
+      "profile": "/neet-ug-profile"
+    },
+    {
+      "id": 3,
+      "name": "CAT",
+      "domain": "Management",
+      "eligibility": "Bachelor's degree",
+      "profile": "/cat-profile"
+    },
+    {
+      "id": 4,
+      "name": "CLAT",
+      "domain": "Law",
+      "eligibility": "10+2",
+      "profile": "/clat-profile"
+    },
+    {
+      "id": 5,
+      "name": "NIFT Entrance Exam",
+      "domain": "Design",
+      "eligibility": "10+2",
+      "profile": "/nift-entrance-profile"
+    },
+    {
+      "id": 6,
+      "name": "GATE",
+      "domain": "Engineering",
+      "eligibility": "Bachelor's degree",
+      "profile": "/gate-profile"
+    },
+    {
+      "id": 7,
+      "name": "AIIMS Entrance Exam",
+      "domain": "Medical",
+      "eligibility": "10+2 (Biology/Chemistry/Physics)",
+      "profile": "/aiims-entrance-profile"
+    },
+    {
+      "id": 8,
+      "name": "GMAT",
+      "domain": "Management",
+      "eligibility": "Bachelor's degree",
+      "profile": "/gmat-profile"
+    },
+    {
+      "id": 9,
+      "name": "LSAT",
+      "domain": "Law",
+      "eligibility": "10+2",
+      "profile": "/lsat-profile"
+    },
+    {
+      "id": 10,
+      "name": "NID Entrance Exam",
+      "domain": "Design",
+      "eligibility": "10+2",
+      "profile": "/nid-entrance-profile"
+    },
+    {
+      "id": 11,
+      "name": "IIT JAM",
+      "domain": "Science",
+      "eligibility": "Bachelor's degree",
+      "profile": "/iit-jam-profile"
+    },
+    {
+      "id": 12,
+      "name": "NEST (National Entrance Screening Test)",
+      "domain": "Science",
+      "eligibility": "10+2 (Biology/Chemistry/Physics/Mathematics)",
+      "profile": "/nest-profile"
+    },
+    {
+      "id": 13,
+      "name": "GATE (Physics)",
+      "domain": "Science",
+      "eligibility": "Bachelor's degree",
+      "profile": "/gate-physics-profile"
+    },
+    {
+      "id": 15,
+      "name": "CSIR UGC NET (Chemical Sciences)",
+      "domain": "Science",
+      "eligibility": "Master's degree in Chemistry",
+      "profile": "/csir-ugc-net-chemical-profile"
+    }
+  ]
+}

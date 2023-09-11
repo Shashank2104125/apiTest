@@ -1,0 +1,23 @@
+[
+    { "id": 1, "title": "Mumbai" },
+    { "id": 2, "title": "Delhi" },
+    { "id": 3, "title": "Bangalore" },
+    { "id": 4, "title": "Hyderabad" },
+    { "id": 5, "title": "Chennai" },
+    { "id": 6, "title": "Kolkata" },
+    { "id": 7, "title": "Pune" },
+    { "id": 8, "title": "Ahmedabad" },
+    { "id": 9, "title": "Jaipur" },
+    { "id": 10, "title": "Lucknow" },
+    { "id": 11, "title": "Kanpur" },
+    { "id": 12, "title": "Nagpur" },
+    { "id": 13, "title": "Indore" },
+    { "id": 14, "title": "Thane" },
+    { "id": 15, "title": "Bhopal" },
+    { "id": 16, "title": "Visakhapatnam" },
+    { "id": 17, "title": "Agra" },
+    { "id": 18, "title": "Patna" },
+    { "id": 19, "title": "Ludhiana" },
+    { "id": 20, "title": "Nashik" }
+  ]
+  
